@@ -7,6 +7,5 @@
 * математика, логика и шахматы
 
 ### Мои контакты.
-* twitter: @Meder16536449
 * mail: medi_medi@mail.ru
 * vk: https://vk.com/mr_medi
