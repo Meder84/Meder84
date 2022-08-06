@@ -11,5 +11,6 @@
 
 ### Мои контакты.
 
-* mail: medi_medi@mail.ru
+* [mail: medi_medi@mail.ru](https://mail.ru/)
 * vk: https://vk.com/mr_medi
+<img align="left" alt="icon-mail" width="20px" src="" />
