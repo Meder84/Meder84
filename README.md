@@ -10,7 +10,7 @@
 * [mail: medi_medi@mail.ru](https://mail.ru/)
 * vk: https://vk.com/mr_medi
 
-## Проекты:
+## Мои проекты:
 <div id="header" align="left">
   <img src="https://vk.com/s/v1/doc/GdaiL5FRDObYYGuWmqzQ84dpApl7IwX6c4JbK0UGLspoBfZiY3Q/>
 </div>
