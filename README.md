@@ -9,4 +9,8 @@
 ### Мои контакты.
 * [mail: medi_medi@mail.ru](https://mail.ru/)
 * vk: https://vk.com/mr_medi
-<img align="left" alt="icon-mail" width="20px" src="" />
+
+## Проекты:
+<div id="header" align="left">
+  <img src="https://vk.com/s/v1/doc/GdaiL5FRDObYYGuWmqzQ84dpApl7IwX6c4JbK0UGLspoBfZiY3Q/>
+</div>
