@@ -17,3 +17,5 @@
   </td>
 </tr>
 </table>
+
+<div align="center"><img src="https://vk.com/s/v1/doc/GdaiL5FRDObYYGuWmqzQ84dpApl7IwX6c4JbK0UGLspoBfZiY3Q" width="300"/></div>
