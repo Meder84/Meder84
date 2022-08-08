@@ -17,8 +17,9 @@
    • <img align="left" src="https://cdn.icon-icons.com/icons2/832/PNG/128/vk_icon-icons.com_66681.png" width="20"/>https://vk.com/mr_medi <br>
   </td>
 </tr>
-</table>
+</table> <br>
 
+<h3 align="left">Мои проекты:</h3>
 <table align="center" cellspacing="0" cellpadding="0">
 <tr>
   <td valign="top" width="50%">
