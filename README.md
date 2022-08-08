@@ -22,9 +22,9 @@
 <table align="center" cellspacing="0" cellpadding="0">
 <tr>
   <td valign="top" width="50%">
-  <img src="https://github.com/Meder84/Meder84/blob/main/gif/Movies_frontent.gif" width="50%"/>
+  <img src="https://github.com/Meder84/Meder84/blob/main/gif/Movies_frontent.gif" width="100%"/>
   </td>
-  <td valign="top" width="50%">
+  <td valign="top" width="100%">
   <img src="https://github.com/Meder84/Meder84/blob/main/gif/mesto.gif" width="50%"/>
   </td>
 </tr>
