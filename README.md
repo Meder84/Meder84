@@ -26,15 +26,15 @@
   <img src="https://github.com/Meder84/Meder84/blob/main/gif/Movies_frontent1024.gif" width="100%"/>
   </td>
   <td valign="top" width="50%">
-  <img src="https://github.com/Meder84/Meder84/blob/main/gif/mesto.gif" width="100%"/>
+  <img src="https://github.com/Meder84/Meder84/blob/main/gif/mesto1024.gif" width="100%"/>
   </td>
 </tr>
 <tr>
   <td valign="top" width="50%">
-  <img src="https://github.com/Meder84/Meder84/blob/main/gif/russian_Travel.gif" width="100%"/>
+  <img src="https://github.com/Meder84/Meder84/blob/main/gif/russianTravel1024.gif" width="100%"/>
   </td>
   <td valign="top" width="50%">
-  <img src="https://github.com/Meder84/Meder84/blob/main/gif/how-to-learn.gif" width="100%"/>
+  <img src="https://github.com/Meder84/Meder84/blob/main/gif/howToLearn1024.gif" width="100%"/>
   </td>
 </tr>
 </table>
