@@ -42,6 +42,8 @@
   <td valign="top" width="50%">
   <img src="https://github.com/Meder84/Meder84/blob/main/gif/chess.gif" width="100%"/>
   </td>
+  <td valign="top" width="50%">
+  <img src="https://github.com/Meder84/Meder84/blob/main/gif/Oxem.gif" width="100%"/>
   </td>
 </tr>
 </table>
