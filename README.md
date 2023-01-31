@@ -15,7 +15,7 @@
    <h3>Мои контакты.</h3>
    • <img align="left" src="https://cdn.icon-icons.com/icons2/1380/PNG/512/emblemmail_93498.png" width="20"/>https://mail.ru/ <br>
    • <img align="left" src="https://cdn.icon-icons.com/icons2/832/PNG/128/vk_icon-icons.com_66681.png" width="20"/>https://vk.com/mr_medi <br>
-   • <img align="left" src="./icon/tg.svg" width="20"/>@AMederA <br>
+   • <img align="left" src="./icon/tg.svg" width="20"/>https://t.me/AMederA <br>
   </td>
 </tr>
 </table> 
